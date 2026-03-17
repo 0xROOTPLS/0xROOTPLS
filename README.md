@@ -1,16 +1,24 @@
-## Hi there 👋
+# `0xROOTPLS`
+### Security Researcher
 
-<!--
-**0xROOTPLS/0xROOTPLS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Public repositories consist of red and blue team tooling, techniques, and conceptual scaffolding - free for anyone to use.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools
+
+| Project | Description |
+|---|---|
+| **[Fritter](#)** | Full evasion-first rewrite of the Donut shellcode loader |
+| **[Hostless](#)** | Hypervisor-level backdoor for Windows machines |
+| **[Cicada](#)** | PIC Windows shellcode stager - sleep obfuscation + remote HTTPS staging |
+| **[SSB](#)** | x64 Windows PE compression / packing utility |
+| **[Spuuf](#)** | Proof-of-concept Windows stack spoofing chassis |
+
+---
+
+## Contact
+
+web · [icalia.com](https://icalia.com)  
+email · [fueledbycaffeine@pm.me](mailto:fueledbycaffeine@pm.me)  
+discord · americium241
