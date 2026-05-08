@@ -1,12 +1,18 @@
-# `0xROOTPLS`
-### Security Researcher
+# `0xROOTPLS` · Security Researcher
 
-My public repositories consist of red *and* blue team tooling, techniques, and conceptual scaffolding for all to enjoy.
+**breaking things so you can fix them.**  
 
----
+Red team by instinct, blue team by obligation.  
+Everything here is open - poke around, fork it, break it.
 
-## Contact
+```
+focus :: implant dev · evasion engineering · shellcode · C2 frameworks
+stack :: C · C++ · Rust · Python · x64 ASM
+stance :: the best defense is a better offense
+fuel  :: caffeine, spite, and accomplishment
+```
 
-web · [icalia.com](https://icalia.com)  
-email · [fueledbycaffeine@pm.me](mailto:fueledbycaffeine@pm.me)  
-discord · americium241
+[![icalia.com](https://img.shields.io/badge/web-icalia.com-0a0a0a?style=flat-square&logo=firefox&logoColor=white)](https://icalia.com)
+[![protonmail](https://img.shields.io/badge/email-fueledbycaffeine-6D4AFF?style=flat-square&logo=protonmail&logoColor=white)](mailto:fueledbycaffeine@pm.me)
+[![discord](https://img.shields.io/badge/discord-americium241-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com)
+
