@@ -13,6 +13,6 @@ fuel  :: caffeine, spite, and accomplishment
 ```
 
 [![icalia.com](https://img.shields.io/badge/web-icalia.com-0a0a0a?style=flat-square&logo=firefox&logoColor=white)](https://icalia.com)
-[![protonmail](https://img.shields.io/badge/email-fueledbycaffeine-6D4AFF?style=flat-square&logo=protonmail&logoColor=white)](mailto:fueledbycaffeine@pm.me)
+[![cockmail](https://img.shields.io/badge/email-0xROOTPLS-6D4AFF?style=flat-square&logo=protonmail&logoColor=white)](mailto:0xrootpls@cock.li)
 [![discord](https://img.shields.io/badge/discord-americium241-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com)
 
