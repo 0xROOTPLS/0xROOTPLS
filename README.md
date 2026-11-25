@@ -1,19 +1,18 @@
-# `0xROOTPLS` · Security Researcher
+<img src="./header.svg" alt="0xROOTPLS, security researcher" width="100%">
 
-**breaking things so you can fix them.**  
+<br>
 
-Red team by instinct, blue team by obligation.  
-Everything here is open - poke around, fork it, break it.
+Red team by instinct, blue team by obligation.
+Everything here is open. Poke around, fork it, break it.
 
-```
-focus :: implant dev · evasion engineering · shellcode · C2 frameworks
-stack :: C · C++ · Rust · Python · x64 ASM
-stance :: the best defense is a better offense
-fuel  :: caffeine, spite, and accomplishment
-```
+<br>
 
-[![rootpls.dev](https://img.shields.io/badge/web-rootpls.dev-0a0a0a?style=flat-square&logo=firefox&logoColor=white)](https://rootpls.dev)
-[![cockmail](https://img.shields.io/badge/email-0xROOTPLS-6D4AFF?style=flat-square&logo=protonmail&logoColor=white)](mailto:0xrootpls@cock.li)
-[![discord](https://img.shields.io/badge/discord-americium241-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com)
+<a href="https://rootpls.dev"><img src="./contact-web.svg" alt="web: rootpls.dev"></a>&emsp;&emsp;
+<a href="mailto:0xrootpls@cock.li"><img src="./contact-email.svg" alt="email: 0xrootpls@cock.li"></a>&emsp;&emsp;
+<a href="https://discord.com/users/YOUR_DISCORD_ID"><img src="./contact-discord.svg" alt="discord: americium241"></a>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=0xROOTPLS&show_icons=true&theme=tokyonight)
+<br><br>
+
+<img height="140" src="https://github-readme-stats.vercel.app/api?username=0xROOTPLS&show_icons=true&hide_border=true&hide_title=true&bg_color=00000000&icon_color=f85149&text_color=7d8590&ring_color=f85149">
+
+<img src="https://komarev.com/ghpvc/?username=0xROOTPLS&label=views&color=30363d&style=flat-square">
