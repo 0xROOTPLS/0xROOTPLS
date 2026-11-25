@@ -3,7 +3,7 @@
 <br>
 
 Red team by instinct, blue team by obligation.
-Everything here is open. Poke around, fork it, break it.
+The best defense is a better offense.
 
 <br>
 
